@@ -17,5 +17,8 @@ Ce script FiveM permet de gérer l'apparition, la suppression et la rotation d'u
 ## Configuration
 - **`config.lua`** : Modifiez ce fichier pour définir le nom du prop et d'autres paramètres par défaut, comme la rotation initiale.
 
-### Exemple de `config.lua`
+
+### Instructions :
+- Tu peux ajuster les sections et le contenu selon tes besoins spécifiques.
+- Assure-toi d'inclure des instructions sur les dépendances si tu utilises d'autres ressources.
 
