@@ -7,25 +7,14 @@ version     '2.0.0'
 author      'kitotake'
 
 shared_scripts {
-    'shared/config.lua',
+    'config.lua',
 }
 
 client_scripts {
-    'client/client.lua',
+    'client.lua',
 }
 
 server_scripts {
-    'server/main.lua',
+    'server.lua',
 }
 
-nui_callbacks {
-    'success',
-    'fail',
-    'close',
-}
-
-ui_page 'web/dist/index.html'
-
-files {
-    'web/dist/**',
-}
